@@ -185,11 +185,11 @@ piece.fading {
   font-size: 9px;
 }
 
-.large-coords coord {
+.cg-wrap .large-coords coord {
   font-size: 20px;
 }
 
-.larger-coords coord {
+.cg-wrap .larger-coords coord {
   font-size: 35px;
 }
 
